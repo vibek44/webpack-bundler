@@ -1,0 +1,2 @@
+- this app is designed using webpack as base configuration.
+- webpack convert multiples files to single file ready to serve the browser 
