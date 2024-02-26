@@ -1,2 +1,4 @@
 - this app is designed using webpack as base configuration.
 - webpack convert multiples files to single file ready to serve the browser 
+-Starting from version 4 of webpack, the minification plugin does not require additional configuration to be used. mode --production is enough.
+-minification reduce the memory size of the output or bundled code drastically(optimization). 
